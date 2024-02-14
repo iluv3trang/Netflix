@@ -1,6 +1,7 @@
 ## Netflix
-Financial Performance Analysis of Netflix &amp; Growth Forecasts
-####In recent years, streaming services have become increasingly popular, and Netflix is
+Financial Performance Analysis of Netflix and Growth Forecasts
+
+In recent years, streaming services have become increasingly popular, and Netflix is
 well-known as the most successful streaming platform. Based on the market cap in April 2023,
 the company’s market value is estimated to be about $ 146.67 billion USD that made Netflix
 gain competitive advantage over other companies in the on-demand media industry in the
